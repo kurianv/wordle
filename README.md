@@ -30,7 +30,8 @@ This is a simple Wordle-like game implemented in Java. The game allows players t
 3. ```bash
          java Main
 
-#Gameplay
+##Gameplay
+
 Are you ready to play? Type TRUE to continue or FALSE.
 TRUE
 Instruction: 
@@ -62,4 +63,4 @@ ______________________________________________________
 Attempt 2:
 Enter your 5 letter word: ...
 
-The game iterates until 6 attempts are met or if the word is guessed.
+The game iterates until 6 attempts are met or if the word is guessed. After the game ends, the program asks if it would like to play another game.
