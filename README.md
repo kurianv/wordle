@@ -27,8 +27,39 @@ This is a simple Wordle-like game implemented in Java. The game allows players t
 2. Compile the Java files:
    ```bash
    javac Main.java Game.java Tools.java Words.java
-   ```bash
+3. ```bash
          java Main
 
+#Gameplay
+Are you ready to play? Type TRUE to continue or FALSE.
+TRUE
+Instruction: 
+1. You have six tries to guess the five-letter Wordle of the day. 
+2. Type in your guess and submit your word by hitting the enter key on the Wordle keyboard. 
+3. Filled spots on the lines indicated that the character in the entered word had matching character in the same position, 
+ if a character was in the word, a prompt will be displayed tell that the character is in the word but is at the 
+ wrong position. 
+4. Continue until you solve the Wordle or run out of guesses. Good luck! 
 
-   
+ - - - - -
+ - - - - -
+ - - - - -
+ - - - - -
+ - - - - -
+ - - - - -
+
+Attempt 1:
+The character C is in the word at the wrong position.
+______________________________________________________
+
+ - - - - -
+ C - - - -
+ - - - - -
+ - - - - -
+ - - - - -
+ - - - - -
+
+Attempt 2:
+Enter your 5 letter word: ...
+
+The game iterates until 6 attempts are met or if the word is guessed.
