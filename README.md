@@ -30,7 +30,7 @@ This is a simple Wordle-like game implemented in Java. The game allows players t
 3. ```bash
          java Main
 
-##Gameplay
+## Gameplay
 
 Are you ready to play? Type TRUE to continue or FALSE.
 TRUE
@@ -42,23 +42,33 @@ Instruction:
  wrong position. 
 4. Continue until you solve the Wordle or run out of guesses. Good luck! 
 
- - - - - -
- - - - - -
- - - - - -
- - - - - -
- - - - - -
- - - - - -
+ "- - - - -"
+ 
+ "- - - - -"
+ 
+ "- - - - -"
+ 
+ "- - - - -"
+ 
+ "- - - - -"
+ 
+ "- - - - -"
 
 Attempt 1:
 The character C is in the word at the wrong position.
 ______________________________________________________
 
- - - - - -
- C - - - -
- - - - - -
- - - - - -
- - - - - -
- - - - - -
+ "- - - - -"
+ 
+ "C - - - -"
+ 
+ "- - - - -"
+ 
+ "- - - - -"
+ 
+ "- - - - -"
+ 
+ "- - - - -"
 
 Attempt 2:
 Enter your 5 letter word: ...
