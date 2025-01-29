@@ -27,4 +27,8 @@ This is a simple Wordle-like game implemented in Java. The game allows players t
 2. Compile the Java files:
    ```bash
    javac Main.java Game.java Tools.java Words.java
+```bash
+      java Main
+
+
    
